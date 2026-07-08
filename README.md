@@ -15,9 +15,9 @@ I enjoy building practical cybersecurity projects that demonstrate real-world sk
   ## Projects
   | Project | Description | Repository |
   |---------|-------------|------------|
-  | OSINT Investigation | Conducted an OSINT Investigation on a target organization | coming soon |
+  | OSINT Investigation | Conducted an OSINT Investigation on a target organization | github.com/JesseDavid-10 |
   | Log Analysis | Analysed IIS and Windows Event Logs to identify attacks | coming soon |
-
+  | Malware Analysis | Completed analysis project |[ ](https://github.com/JesseDavid-10/JesseDavid-10) |
   ## Skills
   ### Operating Systems
   - Windows
